@@ -17,7 +17,7 @@ return [
             'payments' => 'c,r,u,d',
             'profile' => 'r,u'
         ],
-        'superuser' => [
+        'writer' => [
             'users' => 'c,r,u,d',
             'profile' => 'r,u'
         ],
